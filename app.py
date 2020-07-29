@@ -7,7 +7,7 @@ import json
 from time import sleep
 import tkinter as tk
 from tkinter import messagebox,filedialog
-from tkinter.ttk import Progressbar,Notebook
+from tkinter.ttk import Progressbar
 from subprocess import check_call
 from hashlib import md5
 from PIL import Image, ImageTk
